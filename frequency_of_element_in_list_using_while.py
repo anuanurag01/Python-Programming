@@ -1,6 +1,7 @@
 #In this program i am going to check frequency of each element in given List.
 # Step 1- Take number from user to create a list
-# Step 2- 
+# Step 2- take another list with same length of list that have numbers
+# 
 
 numbers=[]
 i=0
